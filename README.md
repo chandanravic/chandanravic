@@ -10,4 +10,3 @@ Hi there 👋
 
 
 
-<a target="_blank" href="https://www.amazon.in/Fixderma-Shadow-Cream-Protect-Spectrum/dp/B089RJFX1K?ref_=Oct_DLandingS_D_d01465ad_0&_encoding=UTF8&tag=chandanravi-21&linkCode=ur2&linkId=8e3c9bd00c25a315a0ee730e9471965f&camp=3638&creative=24630">nirgifix</a>
