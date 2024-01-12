@@ -4,7 +4,7 @@ Hi there 👋
 
 I like to train Machine Learning models.⚙️
 
-I studied Finance, but I prefer Engineering.🧑🏻‍💻
+I studied Finance, but I prefer Computer Engineering.🧑🏻‍💻
 
 Blog _ https://chandanravi.blogspot.com
 
