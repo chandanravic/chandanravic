@@ -3,7 +3,7 @@ Hi there 👋<br>
 I like to train Machine Learning models.⚙️<br>
 I studied Finance, but I prefer Computer Engineering.🧑🏻‍💻<br>
 
-Blog _ https://chandanravi.blogspot.com<br>
+Blog - https://chandanravi.blogspot.com<br>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chandanravic&theme=highcontrast)](https://git.io/streak-stats)
