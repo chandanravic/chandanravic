@@ -4,12 +4,13 @@ Hi there 👋<br>
 I like to train Machine Learning models.⚙️<br>
 I studied Finance, but I like Computer Engineering.🧑🏻‍💻<br>
 
+My webpage [https://chandanravi.com](https://chandanravi.blogspot.com)
 
-- 📝 My webpage [https://chandanravi.com](https://chandanravi.blogspot.com)
 
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/iamchandan_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandanravic/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamchandan_ravi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandanravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanravi" height="30" width="40" /></a>
