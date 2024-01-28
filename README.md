@@ -15,9 +15,6 @@ X - https://twitter.com/iamchandan_ravi<br>
 
 
 
-<h1 align="center">Hi 👋, I'm Chandan Ravi</h1>
-<h3 align="center">I like to train Machine Learning models.⚙️ I studied Finance, but I like Computer Engineering.🧑🏻‍💻</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamchandan_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandanravic/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamchandan_ravi" height="30" width="40" /></a>
