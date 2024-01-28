@@ -4,13 +4,8 @@ Hi there 👋<br>
 I like to train Machine Learning models.⚙️<br>
 I studied Finance, but I like Computer Engineering.🧑🏻‍💻<br>
 
-You can find me here :<br>
-Webpage - https://chandanravi.blogspot.com<br>
-Linkedin - https://www.linkedin.com/in/chandanravi/<br>
-X - https://twitter.com/iamchandan_ravi<br>
 
-
-- 📝 I regularly write articles on [https://chandanravi.blogspot.com](https://chandanravi.blogspot.com)
+- 📝 My webpage [https://chandanravi.com](https://chandanravi.blogspot.com)
 
 
 
