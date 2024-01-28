@@ -10,6 +10,7 @@ Linkedin - https://www.linkedin.com/in/chandanravi/<br>
 X - https://twitter.com/iamchandan_ravi<br>
 
 
+- 📝 I regularly write articles on [https://chandanravi.blogspot.com](https://chandanravi.blogspot.com)
 
 
 
