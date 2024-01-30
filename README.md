@@ -10,8 +10,8 @@ My webpage [https://chandanravi.blogspot.com](https://chandanravi.blogspot.com)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/iamchandan_ravi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="iamchandan_ravi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandanravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanravi" height="30" width="40" /></a>
+<a href="https://twitter.com/iamchandan_ravi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="iamchandan_ravi" height="30" width="40" /></a>
 <a href="https://medium.com/@chandanravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandanravi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandan_chandu48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandan_chandu48" height="30" width="40" /></a>
 </p>
